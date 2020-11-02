@@ -4,7 +4,11 @@
 npx create-react-app my-app
 cd my-app
 npm start
-If you've previously installed create-react-app globally via npm install -g create-react-app, we recommend you uninstall the package using npm uninstall -g create-react-app or yarn global remove create-react-app to ensure that npx always uses the latest version.
+If you've previously installed create-react-app globally via<br> 
+**npm install -g create-react-app**,<br>
+we recommend you uninstall the package using<br> 
+**npm uninstall -g create-react-app or yarn global remove create-react-app**<br> 
+to ensure that npx always uses the latest version.
 
 (npx comes with npm 5.2+ and higher, see instructions for older npm versions)
 
@@ -24,16 +28,17 @@ You’ll need to have Node 8.16.0 or Node 10.16.0 or later version on your local
 
 To create a new app, you may choose one of the following methods:
 
-#### npx
-npx create-react-app my-app
+### npx
+**npx create-react-app my-app**<br>
 (npx is a package runner tool that comes with npm 5.2+ and higher, see instructions for older npm versions)
 
-#### npm
-npm init react-app my-app
+### npm
+**npm init react-app my-app**
 
-#### Yarn
-yarn create react-app my-app
+### Yarn
+**yarn create react-app my-app**<br>
 yarn create <starter-kit-package> is available in Yarn 0.25+
 
 It will create a directory called my-app inside the current folder.
 Inside that directory, it will generate the initial project structure and install the transitive dependencies:
+
