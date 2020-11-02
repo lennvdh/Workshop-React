@@ -47,3 +47,17 @@ Inside that directory, it will generate the initial project structure and instal
     1. axios
     2. styled components
 
+## Installing library
+
+### npm
+
+    npm install axios
+    #
+    npx install styled-components
+
+### yarn
+
+    yarn add axios
+    #
+    yarn add styled-components
+    
