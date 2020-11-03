@@ -65,5 +65,5 @@ Inside that directory, it will generate the initial project structure and instal
 
 ## api list
 
-https://pokeapi.co/
-https://randomuser.me/
+1. https://pokeapi.co/ 
+2. https://randomuser.me/
