@@ -63,3 +63,7 @@ Inside that directory, it will generate the initial project structure and instal
     yarn add styled-components
     
 
+## api list
+
+https://pokeapi.co/
+https://randomuser.me/
